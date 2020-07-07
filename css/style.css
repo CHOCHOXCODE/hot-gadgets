@@ -19,7 +19,7 @@
  /* sloder section  */
 .slide-bg{
     border-radius: 10px;
-    background-image: url("/images/bg/bg-2.png");
+    background-image: url("images/bg/bg-2.png");
     background-repeat: no-repeat;
     background-position: left ;
     background-size: 25%;
@@ -27,7 +27,7 @@
 
 .slide-bg-1{
     border-radius: 10px;
-    background-image: url("/images/bg/bg-1.png");
+    background-image: url("images/bg/bg-1.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 7%;
